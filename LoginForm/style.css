@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(112, 112, 244);
+}
+
+#container{
+    height: 500px;
+    width: 900px;
+    /*background-color: brown;*/
+    margin-left: 270px;
+    margin-top: 134px;
+    display: flex;
+    
+}
+
+#login{
+    width: 500px;
+    height: 500px;
+    background-color:white;
+    
+}
+#side-img{
+    width: 400px;
+    height: 500px;
+    background-color: antiquewhite;
+}
+#heading{
+    text-align: center;
+    color: blue;
+}
+
+input{
+    font-size: large;
+    margin-left: 25px;
+    color: rgb(6, 6, 242);
+   
+}
+i{
+    font-size: x-large;
+    margin-left: 80px;
+    color: rgb(80, 80, 230);
+}
+a{
+    margin-left: 170px;
+    color: blue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+button{
+  margin-left: 110px;
+   width: 250px;
+   height: 40px;
+   font-size: 20px;
+   color:white;
+   background-color: rgb(0, 0, 255);
+   cursor: pointer;
+   border-radius: 10px;
+}
+p{
+    margin-left: 160px;
+}
+
+#side-img{
+    background-image: url("image.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
